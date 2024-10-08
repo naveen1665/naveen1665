@@ -1,5 +1,19 @@
 <h1 align="center">Hi, 👋 Im Naveen</h1>
 
+<h2 align="left">About Me 🌟</h2>
+
+###
+
+<h5 align="left">Hi, I'm Naveen! 👋 I'm a passionate web developer who loves creating responsive applications using HTML, CSS, JavaScript, and React 🌐.</h5>
+
+###
+
+<h5 align="left">I also dabble in machine learning with PyTorch and TensorFlow 🤖.</h5>
+
+###
+
+<h5 align="left">Let's connect and share our tech journeys! 🚀</h5>
+
 ###
 
 <h2 align="left">Tech Stuff's  💡</h2>
