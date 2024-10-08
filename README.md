@@ -1,4 +1,4 @@
-[<h1 align="center">Hi, 👋 Im Naveen</h1>
+<h1 align="center">Hi, 👋 Im Naveen</h1>
 
 ###
 
@@ -62,13 +62,14 @@
 
 ###
 
-<h2 align="left">Social - Network's 🤝</h2>
-
-###
-
+<h2 align="left">Connect with Me 🤝</h2>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/navince-166ffsf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:inboxsofnaveen@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
 </div>
 
 ###
@@ -82,4 +83,3 @@
 
 <img src="https://raw.githubusercontent.com/naveen-166/naveen-166/output/snake.svg" alt="Snake animation" />
 
-###](https://raw.githubusercontent.com/naveen-166/naveen-166/output/snake.svg)
