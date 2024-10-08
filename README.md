@@ -72,6 +72,7 @@
 
 ---
 
-![Snake animation](https://github.com/eagrundy/naveen-166/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/naveen-166/naveen-166/output/snake.svg" alt="Snake animation" />
 
 ---
